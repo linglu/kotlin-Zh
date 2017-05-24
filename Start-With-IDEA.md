@@ -1,19 +1,19 @@
 
-地址：http://kotlinlang.org/docs/tutorials/getting-started.html
-日期：Wed May 24 CST 2017
-作者：Linky
+地址：http://kotlinlang.org/docs/tutorials/getting-started.html<br />
+日期：Wed May 24 CST 2017<br />
+作者：Linky<br />
 
 # 用 IntelliJ IDEA 运行 Kotlin
 
 ## 配置环境
 
-    这个教程我们将讲解使用 IDEA 运行 Kotlin，如果想了解如何用命令行编译和运行 Kotlin 应用，可以移步：[命令行运行 Kotlin](http://kotlinlang.org/docs/tutorials/command-line.html)
+&ensp;&ensp;&ensp;&ensp;这个教程我们将讲解使用 IDEA 运行 Kotlin，如果想了解如何用命令行编译和运行 Kotlin 应用，可以移步：[命令行运行 Kotlin](http://kotlinlang.org/docs/tutorials/command-line.html)
 
-    如果你对 JVM 和 Java 也感到陌生，可以移步(JVM 生存指南)[http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/]。如果你对 IntelliJ IDEA 感到陌生，可以移步(IntelliJ IDEA 生存指南)[http://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/]
+&ensp;&ensp;&ensp;&ensp;如果你对 JVM 和 Java 也感到陌生，可以移步[JVM 生存指南](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)。如果你对 IntelliJ IDEA 感到陌生，可以移步[IntelliJ IDEA 生存指南](http://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/)
 
-    下面开始进入正题
+下面开始进入正题
 
-1. **安装最新版本的 IntelliJ IDEA**。可运行 Kotlin 的最小 IntelliJ IDEA 版本是 15，你可以从 (JetBrains)[https://www.jetbrains.com/] 下载免费的(社区版本)[https://www.jetbrains.com/idea/download/index.html]
+1. **安装最新版本的 IntelliJ IDEA**。可运行 Kotlin 的最小 IntelliJ IDEA 版本是 15，你可以从 [JetBrains](https://www.jetbrains.com/) 下载免费的[社区版本](https://www.jetbrains.com/idea/download/index.html)
 
 2. 创建一个新项目。我们选择 Java Module 和 选择 Project SDK。Kotlin 的运行的最小 JDK 版本是 1.6，然后选中 Kotlin(java) <br />
   ![new_project_step1](http://kotlinlang.org/assets/images/tutorials/getting-started/new_project_step1.png)
@@ -38,6 +38,7 @@
 
 9. 如果一切顺利，我们应该可以在 **Run** 工具窗口看到结果<br />
   ![run_window](http://kotlinlang.org/assets/images/tutorials/getting-started/run_window.png)
+
 
 
 
