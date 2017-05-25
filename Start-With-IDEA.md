@@ -7,9 +7,9 @@
 
 ## 配置环境
 
-&ensp;&ensp;&ensp;&ensp;这个教程我们将讲解使用 IDEA 运行 Kotlin，如果想了解如何用命令行编译和运行 Kotlin 应用，可以移步：[命令行运行 Kotlin](http://kotlinlang.org/docs/tutorials/command-line.html)
+这个教程我们将讲解使用 IDEA 运行 Kotlin，如果想了解如何用命令行编译和运行 Kotlin 应用，可以移步：[命令行运行 Kotlin](http://kotlinlang.org/docs/tutorials/command-line.html)
 
-&ensp;&ensp;&ensp;&ensp;如果你对 JVM 和 Java 也感到陌生，可以移步[JVM 生存指南](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)。如果你对 IntelliJ IDEA 感到陌生，可以移步[IntelliJ IDEA 生存指南](http://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/)
+如果你对 JVM 和 Java 也感到陌生，可以移步[JVM 生存指南](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)。如果你对 IntelliJ IDEA 感到陌生，可以移步[IntelliJ IDEA 生存指南](http://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/)
 
 下面开始进入正题
 
