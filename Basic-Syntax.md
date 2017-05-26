@@ -11,7 +11,7 @@
 
 包的声明应该写在源文件的最上面
 
-```
+```kotlin
 package my.demo
 
 import java.util.*
@@ -24,7 +24,7 @@ import java.util.*
 ## 定义函数
 
 如果一个函数有两个 Int 类型的参数并且返回 Int 类型，可以这样写：
-```
+```kotlin
 fun sum(a: Int, b: Int) : Int {
   return a + b
 }
@@ -32,12 +32,12 @@ fun sum(a: Int, b: Int) : Int {
 
 一个函数可以只有函数体，返回类型根据返回值确定：
 
-```
+```kotlin
 fun sum(a: Int, b: Int) = a + b
 ```
 
 如果一个函数没有返回值，可以如下定义：
-```
+```kotlin
 fun printSum(a: Int, b: Int): Unit{
   println("sum of $a and $b is $(a + b)")
 }
@@ -49,7 +49,7 @@ fun printSum(a: Int, b: Int): Unit{
 ## 定义局部变量
 
 只读局部变量，只赋值一次：val 开头
-```
+```kotlin
 val a: Int = 1  // 立即赋值
 val b = 2  	// 没有声明类型，但是根据 2 的类型，自动将 b 设置为 Int 类型
 val c: Int 	// 如果没有在声明时初始化，需要提供类型信息
