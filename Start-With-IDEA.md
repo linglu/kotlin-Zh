@@ -1,7 +1,7 @@
 
 地址：http://kotlinlang.org/docs/tutorials/getting-started.html<br />
 日期：Wed May 24 CST 2017<br />
-作者：Linky<br />
+译者：Linky<br />
 
 # 用 IntelliJ IDEA 运行 Kotlin
 

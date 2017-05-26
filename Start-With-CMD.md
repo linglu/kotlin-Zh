@@ -1,7 +1,7 @@
 
 地址：http://kotlinlang.org/docs/tutorials/command-line.html<br />
 日期：Wed May 25 CST 2017<br />
-作者：Linky<br />
+译者：Linky<br />
 
 # 使用命令行编译运行 Kotlin
 
